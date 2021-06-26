@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.jiguang.sdk</groupId>
+  <artifactId>jcore-google</artifactId>
+  <versioning>
+    <release>2.7.6.A</release>
+    <versions>
+      <version>2.7.6.A</version>
+    </versions>
+    <lastUpdated>20210626124322</lastUpdated>
+  </versioning>
+</metadata>
